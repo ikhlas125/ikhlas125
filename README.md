@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Science Junior @ FAST NUCES, Lahore<br>🤖 Machine Learning & AI | 🌐 Full Stack Web Development<br>📍 Lahore, Pakistan<br><br>I'm a CS student with hands-on experience building end-to-end systems — from<br>ML pipelines to full-stack web apps to low-level systems software. I've worked<br>across Python, C, C++, x86 Assembly, React.js, FastAPI, and SQL, and I care<br>as much about whether a system is *correct* as whether it runs.
+🎓 Computer Science Junior @ FAST NUCES, Lahore<br>🤖 Machine Learning & AI | 🌐 Web Development<br>📍 Lahore, Pakistan<br><br>I'm a CS student with hands-on experience building end-to-end systems — from<br>ML pipelines to full-stack web apps to low-level systems software. I've worked<br>across Python, C, C++, x86 Assembly, React.js, FastAPI, and SQL, and I care<br>as much about whether a system is *correct* as whether it runs.
 
 
 ## 🌐 Socials:
